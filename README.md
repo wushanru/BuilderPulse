@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 16
+## <a id="english"></a>💡 Today's build · May 17
 
-> **build a repo-maintenance triage report for AI-shipped code**
+> **build a one-page AI quota receipt for engineering managers**
 
-**Why now:** 440 comments turned AI anxiety into a maintenance bill founders can no longer ignore
+**Why now:** Forced AI work hit 1,061 comments, so managers need proof of useful coding-assistant work today
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-16.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-16.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-17.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-17.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 16](en/2026/2026-05-16.md)**: 440 comments expose AI code nobody owns yet
-- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens in one connector could trigger a surprise invoice
-- **[May 14](en/2026/2026-05-14.md)**: 543 comments make data residency a sales blocker
-- **[May 13](en/2026/2026-05-13.md)**: Needle uses 26M parameters to test local commands
-- **[May 12](en/2026/2026-05-12.md)**: 84 malicious versions turn lockfiles into rotation work
-- **[May 11](en/2026/2026-05-11.md)**: 506 comments show AWS exits still hide paperwork
-- **[May 10](en/2026/2026-05-10.md)**: 542 comments reveal login gates quietly losing real users
+- **[May 17](en/2026/2026-05-17.md)**: 1,061 comments made AI quotas a proof problem for managers
+- **[May 16](en/2026/2026-05-16.md)**: 440 comments named AI rescue consulting, but who owns the repair?
+- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens exposed the hidden agent connector bill
+- **[May 14](en/2026/2026-05-14.md)**: 543 comments made data residency a founder sales risk
+- **[May 13](en/2026/2026-05-13.md)**: A 26M parameter model asks which app commands stay local
+- **[May 12](en/2026/2026-05-12.md)**: 84 malicious versions made one install feel expensive
+- **[May 11](en/2026/2026-05-11.md)**: 506 comments turned AWS exit paperwork into a product
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月16日
+## <a id="chinese"></a>💡 今日建议 · 5月17日
 
-> **做一个 AI 仓库维护债报告**
+> **做一个 AI 配额收据报告**
 
-**为什么是现在:** 440 条讨论把 AI 焦虑变成了创始人今天必须处理的维护账单
+**为什么是现在:** 强推 AI 工作已有 1,061 条评论，工程管理者今天需要证明哪些智能体工作真的有用
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-16.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-16.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-17.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-17.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月16日](zh/2026/2026-05-16.md)**: 440 条讨论把 AI 代码维护债推到台前
-- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 个 token 连接器可能变成下一张意外账单
-- **[5月14日](zh/2026/2026-05-14.md)**: 543 条讨论让数据驻留变成销售风险
-- **[5月13日](zh/2026/2026-05-13.md)**: 26M 参数模型逼应用团队重想本地命令
-- **[5月12日](zh/2026/2026-05-12.md)**: 84 个恶意版本把 lockfile 变成轮换清单
-- **[5月11日](zh/2026/2026-05-11.md)**: 506 条讨论说明离开 AWS 仍像合规项目
-- **[5月10日](zh/2026/2026-05-10.md)**: 542 条讨论暴露登录门槛正在误伤真用户
+- **[5月17日](zh/2026/2026-05-17.md)**: 1,061 条评论把 AI 配额变成管理者的证明难题
+- **[5月16日](zh/2026/2026-05-16.md)**: 440 条评论点名 AI 救援咨询，谁先修代码债
+- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 个 token 暴露智能体连接器的隐藏账单
+- **[5月14日](zh/2026/2026-05-14.md)**: 543 条讨论让数据驻留从理念变成销售风险
+- **[5月13日](zh/2026/2026-05-13.md)**: 26M 参数模型追问哪些应用命令能留在本地
+- **[5月12日](zh/2026/2026-05-12.md)**: 84 个恶意版本让一次安装变成凭证轮换
+- **[5月11日](zh/2026/2026-05-11.md)**: 506 条评论把 AWS 退出 paperwork 变成产品机会
 
 [完整归档 →](zh/)
 
