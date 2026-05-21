@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 20
+## <a id="english"></a>💡 Today's build · May 21
 
-> **build a coding assistant hook infection checker**
+> **build a team extension and AI connector trust receipt**
 
-**Why now:** A compromise across 317 affected packages now reaches assistant hooks, making startup-path audits urgent for Claude Code and Codex teams
+**Why now:** GitHub confirmed 3,800 repos exposed through one extension, making agent connector access worth auditing today
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-20.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-20.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-21.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-21.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 20](en/2026/2026-05-20.md)**: 317 affected npm packages put assistant hooks under suspicion?
-- **[May 19](en/2026/2026-05-19.md)**: 293 comments turn export paths into a custody fight?
-- **[May 18](en/2026/2026-05-18.md)**: 84 comments questioned whether agent search really saves tokens?
-- **[May 17](en/2026/2026-05-17.md)**: 342 comments exposed one UUID collision nobody budgeted for?
-- **[May 16](en/2026/2026-05-16.md)**: 440 comments turned AI rescue consulting into maintenance debt?
-- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens and $2,000 editor invoices make connector sprawl visible?
-- **[May 14](en/2026/2026-05-14.md)**: 543 comments made data residency a sales blocker?
+- **[May 21](en/2026/2026-05-21.md)**: 3,800 exposed repos made editor extensions look dangerous?
+- **[May 20](en/2026/2026-05-20.md)**: 637 malicious npm versions found the assistant startup path?
+- **[May 19](en/2026/2026-05-19.md)**: 293 comments made project export feel urgent?
+- **[May 18](en/2026/2026-05-18.md)**: 84 comments asked whether agent search can be trusted?
+- **[May 17](en/2026/2026-05-17.md)**: 342 comments turned UUID assumptions into operational risk?
+- **[May 16](en/2026/2026-05-16.md)**: 440 comments turned AI-written code into maintenance debt?
+- **[May 15](en/2026/2026-05-15.md)**: 55,000 tokens in one connector can become a surprise invoice?
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月20日
+## <a id="chinese"></a>💡 今日建议 · 5月21日
 
-> **做一个编码助手 hook 感染检查器**
+> **做一个扩展与 AI 连接器审计**
 
-**为什么是现在:** 317 个受影响包已经把风险推到编码助手 hooks，今天适合做启动路径审计
+**为什么是现在:** GitHub 确认 3,800 个仓库因恶意扩展暴露，今天正适合审计扩展和 AI 连接器权限
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-20.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-20.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-21.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-21.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月20日](zh/2026/2026-05-20.md)**: 317 个受影响包，让编码助手 hooks 成了审计焦点
-- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论，把导出路径变成工作托管权问题
-- **[5月18日](zh/2026/2026-05-18.md)**: 84 条讨论追问，智能体搜索到底省不省 token
-- **[5月17日](zh/2026/2026-05-17.md)**: 342 条讨论证明，一次 UUID 碰撞就够疼
-- **[5月16日](zh/2026/2026-05-16.md)**: 440 条讨论把 AI rescue consulting 变成维护账单
-- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 个 token 和 $2,000 发票，让连接器成本现形
-- **[5月14日](zh/2026/2026-05-14.md)**: 543 条讨论让数据驻留变成销售阻塞点
+- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库暴露后 扩展权限还敢不查吗
+- **[5月20日](zh/2026/2026-05-20.md)**: 637 个恶意版本瞄准启动 hooks 谁来清点
+- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论之后 项目还能不能带走
+- **[5月18日](zh/2026/2026-05-18.md)**: 84 条讨论追问 智能体搜索到底省不省
+- **[5月17日](zh/2026/2026-05-17.md)**: 342 条讨论之后 UUID 还敢默认安全吗
+- **[5月16日](zh/2026/2026-05-16.md)**: 440 条讨论把 AI 代码变成维护账单
+- **[5月15日](zh/2026/2026-05-15.md)**: 55,000 个 token 的连接器 会不会变成下一张账单
 
 [完整归档 →](zh/)
 
