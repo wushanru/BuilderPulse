@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 22
 
-> **build a Slop Reply Receipt for Slack Gmail or GitHub comments**
+> **build a Human Reply Gate for AI-written walls of text**
 
-**Why now:** 333 comments show AI-written replies are now wasting review time across workplace communication
+**Why now:** AI reply fatigue hit 319 comments today, making a Human Reply Gate useful before review time burns
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 22](en/2026/2026-05-22.md)**: 333 comments turn AI replies into review debt, who owns cleanup?
-- **[May 21](en/2026/2026-05-21.md)**: 3,800 repositories exposed editor trust, which extensions still touch code?
-- **[May 20](en/2026/2026-05-20.md)**: 317 packages targeted assistant hooks, what still runs at startup?
-- **[May 19](en/2026/2026-05-19.md)**: 293 comments made export custody urgent, what gets trapped?
-- **[May 18](en/2026/2026-05-18.md)**: 84 comments questioned agent search savings, where do tokens leak?
-- **[May 17](en/2026/2026-05-17.md)**: 342 comments followed one UUID collision, which records are fragile?
-- **[May 16](en/2026/2026-05-16.md)**: 440 comments turned AI rescue into maintenance debt, who fixes first?
+- **[May 22](en/2026/2026-05-22.md)**: 319 comments say AI replies need a human gate before trust breaks
+- **[May 21](en/2026/2026-05-21.md)**: 3,800 repositories exposed editor extensions as the new trust gap
+- **[May 20](en/2026/2026-05-20.md)**: 317 npm packages pushed assistant hooks into the attack surface
+- **[May 19](en/2026/2026-05-19.md)**: 293 comments made export rights the new subscription risk
+- **[May 18](en/2026/2026-05-18.md)**: 98% fewer tokens sounds great until agents retry the search
+- **[May 17](en/2026/2026-05-17.md)**: 342 comments turned impossible UUID collisions into operational risk
+- **[May 16](en/2026/2026-05-16.md)**: 440 comments exposed the maintenance bill behind AI-written systems
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月22日
 
-> **做一个 AI 长回复回执工具**
+> **做一个 AI 回复清晰度闸门**
 
-**为什么是现在:** 333 条评论表明 AI 长回复已成职场评审负担
+**为什么是现在:** AI 大段废话今天引发 319 条讨论，适合先做 Human Reply Gate 帮团队挡住审核浪费
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月22日](zh/2026/2026-05-22.md)**: 333 条评论把 AI 长回复变成评审债，谁来清理？
-- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库受影响后，哪些扩展还能碰代码？
-- **[5月20日](zh/2026/2026-05-20.md)**: 317 个包瞄准助手 hooks，启动时还会跑什么？
-- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论让导出归属变急，哪些文件会被困住？
-- **[5月18日](zh/2026/2026-05-18.md)**: 84 条讨论质疑智能体搜索，token 到底省在哪？
-- **[5月17日](zh/2026/2026-05-17.md)**: 342 条讨论追着一次 UUID 碰撞，哪些记录最脆？
-- **[5月16日](zh/2026/2026-05-16.md)**: 440 条讨论把 AI 救援变成维护账，谁先修？
+- **[5月22日](zh/2026/2026-05-22.md)**: 319 条讨论让 AI 回复清晰度闸门变成今天的缺口
+- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库泄露后 编辑器扩展信任开始变贵
+- **[5月20日](zh/2026/2026-05-20.md)**: 317 个 npm 包被击中 编码助手 hooks 成了攻击面
+- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论把导出权变成订阅风险
+- **[5月18日](zh/2026/2026-05-18.md)**: 98% token 节省听起来好 直到智能体反复重试
+- **[5月17日](zh/2026/2026-05-17.md)**: 342 条讨论说明 UUID 碰撞不是传说
+- **[5月16日](zh/2026/2026-05-16.md)**: 440 条讨论把 AI 生成系统的维护账单摊开
 
 [完整归档 →](zh/)
 
