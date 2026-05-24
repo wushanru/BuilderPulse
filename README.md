@@ -9,9 +9,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="english"></a>💡 Today's build · May 24
 
-> **build a laptop customs decision report**
+> **build a visa-change triage intake for startup teams**
 
-**Why now:** A Uganda laptop story drew 238 comments, showing teams need shipment decisions before customs traps remote-work hardware
+**Why now:** A green-card processing change drew 1,253 comments, showing startup teams need calm triage before counsel and travel decisions
 
 <p align="center">
 
@@ -22,13 +22,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### Track record — 7 days of signals → builds
 
-- **[May 24](en/2026/2026-05-24.md)**: 238 comments exposed laptop shipping traps before teams send hardware
-- **[May 23](en/2026/2026-05-23.md)**: 719 comments made AI credit theft an operating problem
-- **[May 22](en/2026/2026-05-22.md)**: 319 comments turned AI answer fatigue into a clarity gate
-- **[May 21](en/2026/2026-05-21.md)**: 3,800 repositories made editor extensions a security budget question
-- **[May 20](en/2026/2026-05-20.md)**: 317 npm packages turned assistant startup hooks into an attack path
-- **[May 19](en/2026/2026-05-19.md)**: 293 comments made project export proof feel urgent
-- **[May 18](en/2026/2026-05-18.md)**: 84 comments challenged the 98 percent token-saving code search claim
+- **[May 24](en/2026/2026-05-24.md)**: 1,253 comments turned green-card changes into startup ops risk, who is exposed?
+- **[May 23](en/2026/2026-05-23.md)**: 719 comments put AI plagiarism on site-owner receipts, who gets credit?
+- **[May 22](en/2026/2026-05-22.md)**: 319 comments rejected AI reply sludge, who owns the ask?
+- **[May 21](en/2026/2026-05-21.md)**: 3,800 repositories made editor extensions a security budget item, who can read?
+- **[May 20](en/2026/2026-05-20.md)**: 317 packages and 637 malicious versions hit assistant hooks, what persists?
+- **[May 19](en/2026/2026-05-19.md)**: 293 comments made export risk visible, what can leave?
+- **[May 18](en/2026/2026-05-18.md)**: Semble promised 98% fewer tokens, but will agents trust it?
 
 [Full archive →](en/)
 
@@ -36,9 +36,9 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ## <a id="chinese"></a>💡 今日建议 · 5月24日
 
-> **做一个笔记本海关决策报告**
+> **做一个签证变化员工排查报告**
 
-**为什么是现在:** Uganda 笔记本故事已有 238 条讨论，说明团队寄出设备前就需要海关与本地购买决策
+**为什么是现在:** 绿卡处理变化引发 1,253 条讨论，创业团队今天需要先排查员工旅行限制和律师问题
 
 <p align="center">
 
@@ -49,13 +49,13 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月24日](zh/2026/2026-05-24.md)**: 238 条讨论暴露笔记本跨境寄送的海关坑
-- **[5月23日](zh/2026/2026-05-23.md)**: 719 条讨论把 AI 署名问题推成运营风险
-- **[5月22日](zh/2026/2026-05-22.md)**: 319 条讨论让 AI 长文废话变成工作流闸门
-- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库受影响让编辑器扩展变成预算问题
-- **[5月20日](zh/2026/2026-05-20.md)**: 317 个 npm 包让助手启动 hooks 变成攻击入口
-- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论让项目导出证明突然变得紧迫
-- **[5月18日](zh/2026/2026-05-18.md)**: 84 条讨论质疑代码搜索 98% 的 token 节省承诺
+- **[5月24日](zh/2026/2026-05-24.md)**: 1,253 条讨论把绿卡变化推到创业运营面前，谁会受影响
+- **[5月23日](zh/2026/2026-05-23.md)**: 719 条讨论追问 AI 署名，原创内容还能拿回什么
+- **[5月22日](zh/2026/2026-05-22.md)**: 319 条讨论厌倦 AI 大段回复，真正诉求在哪里
+- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库受影响，编辑器扩展还能信任谁
+- **[5月20日](zh/2026/2026-05-20.md)**: 317 个 npm 包被击中，助手启动 hooks 还藏着什么
+- **[5月19日](zh/2026/2026-05-19.md)**: 293 条讨论盯上导出风险，哪些工作能带走
+- **[5月18日](zh/2026/2026-05-18.md)**: Semble 声称少用 98% token，智能体会真的信吗
 
 [完整归档 →](zh/)
 
