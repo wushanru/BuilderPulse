@@ -7,55 +7,55 @@ _One build idea. One reason it matters now. Sourced from 300+ live public signal
 
 ---
 
-## <a id="english"></a>💡 Today's build · May 26
+## <a id="english"></a>💡 Today's build · May 27
 
-> **build a Copilot Boundary Receipt for private-file exposure**
+> **build a pull-request AI review ledger**
 
-**Why now:** A 37-comment Copilot file-leak thread and 450% search rise make AI file boundaries a buyer-visible risk today
+**Why now:** 417 comments show teams now need proof AI pull requests improved review instead of hiding debt
 
 <p align="center">
 
-[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-26.md)
-[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-26.md)
+[![📰 Read today's full report](https://img.shields.io/badge/📰_Read_today's_full_report-blue?style=for-the-badge)](en/2026/2026-05-27.md)
+[![🇨🇳 中文版](https://img.shields.io/badge/🇨🇳_中文版-gray?style=for-the-badge)](zh/2026/2026-05-27.md)
 
 </p>
 
 ### Track record — 7 days of signals → builds
 
-- **[May 26](en/2026/2026-05-26.md)**: Copilot leak drew 37 comments; what can AI quote?
-- **[May 25](en/2026/2026-05-25.md)**: DeepSeek pricing drew 511 comments; which prompts get rerouted?
-- **[May 24](en/2026/2026-05-24.md)**: Green-card rule drew 1,253 comments; who needs triage?
-- **[May 23](en/2026/2026-05-23.md)**: AI plagiarism drew 719 comments; who gets credited?
-- **[May 22](en/2026/2026-05-22.md)**: AI answer fatigue drew 319 comments; who owns the reply?
-- **[May 21](en/2026/2026-05-21.md)**: VS Code breach touched 3,800 repositories; which extensions can read?
-- **[May 20](en/2026/2026-05-20.md)**: npm compromise hit 317 packages; which hooks still run?
+- **[May 27](en/2026/2026-05-27.md)**: 417 comments pushed AI coding from speed to review accountability
+- **[May 26](en/2026/2026-05-26.md)**: 450% search growth made AI file boundaries a rollout risk
+- **[May 25](en/2026/2026-05-25.md)**: 511 comments turned DeepSeek pricing into a routing problem
+- **[May 24](en/2026/2026-05-24.md)**: 1,253 comments made visa changes a startup operations problem
+- **[May 23](en/2026/2026-05-23.md)**: 719 comments made AI content credit an operational fight
+- **[May 22](en/2026/2026-05-22.md)**: 319 comments exposed AI reply sludge as review debt
+- **[May 21](en/2026/2026-05-21.md)**: 3,800 repositories turned editor extensions into security budget
 
 [Full archive →](en/)
 
 ---
 
-## <a id="chinese"></a>💡 今日建议 · 5月26日
+## <a id="chinese"></a>💡 今日建议 · 5月27日
 
-> **做一个 Copilot 私有文件暴露报告**
+> **做一个 AI PR 评审账本**
 
-**为什么是现在:** 37 条评论的 Copilot 文件泄露和 450% 搜索上涨，让 AI 文件边界今天成了可售卖风险
+**为什么是现在:** 417 条讨论表明团队今天需要证明 AI pull request 改善了评审，而不是藏起评审债
 
 <p align="center">
 
-[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-26.md)
-[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-26.md)
+[![📰 阅读今日完整报告](https://img.shields.io/badge/📰_阅读今日完整报告-blue?style=for-the-badge)](zh/2026/2026-05-27.md)
+[![🇬🇧 English](https://img.shields.io/badge/🇬🇧_English-gray?style=for-the-badge)](en/2026/2026-05-27.md)
 
 </p>
 
 ### 7 天命中记录 — 信号 → 可做的项目
 
-- **[5月26日](zh/2026/2026-05-26.md)**: Copilot 文件泄露有 37 条评论，AI 能引用哪些私有文件？
-- **[5月25日](zh/2026/2026-05-25.md)**: DeepSeek 定价引发 511 条评论，哪些 prompts 该改道？
-- **[5月24日](zh/2026/2026-05-24.md)**: 绿卡规则引发 1,253 条讨论，谁需要先做分诊？
-- **[5月23日](zh/2026/2026-05-23.md)**: AI 抄袭引发 719 条讨论，署名该回到哪里？
-- **[5月22日](zh/2026/2026-05-22.md)**: AI 废话引发 319 条讨论，谁该对回复负责？
-- **[5月21日](zh/2026/2026-05-21.md)**: 恶意扩展影响 3,800 个仓库，哪些插件能读取私有文件？
-- **[5月20日](zh/2026/2026-05-20.md)**: npm 攻击击中 317 个包，哪些 hooks 还在运行？
+- **[5月27日](zh/2026/2026-05-27.md)**: 417 条讨论把 AI 编程从速度问题推向评审问责
+- **[5月26日](zh/2026/2026-05-26.md)**: 450% 搜索上涨让 AI 私有文件边界变成上线风险
+- **[5月25日](zh/2026/2026-05-25.md)**: 511 条评论把 DeepSeek 低价变成模型路由问题
+- **[5月24日](zh/2026/2026-05-24.md)**: 1,253 条讨论让绿卡变化变成创业团队运营风险
+- **[5月23日](zh/2026/2026-05-23.md)**: 719 条讨论把 AI 署名问题推成运营账单
+- **[5月22日](zh/2026/2026-05-22.md)**: 319 条讨论证明 AI 长回复正在吞掉审核时间
+- **[5月21日](zh/2026/2026-05-21.md)**: 3,800 个仓库泄露让编辑器扩展变成安全预算
 
 [完整归档 →](zh/)
 
